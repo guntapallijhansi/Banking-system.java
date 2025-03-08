@@ -1,1 +1,1 @@
-# Banking-system.java
+A Banking System is a software application that simulates the functionalities of a typical bank. This system allows customers to open accounts, deposit and withdraw money, check balance, transfer funds, and perform other banking operations. The core functionality of the system revolves around managing customers' data, handling various transactions, and ensuring security.
